@@ -6,11 +6,17 @@ Utilizei o dicionário [OPTED - The Online Plain Text English Dictionary](https:
 
 ## Setup
 
+Como IDE utilizei o [Visual Studio Code](https://code.visualstudio.com/), mais prático para tudo. Se você não usa ainda, deveria!
 Usei uma ferramenta massa para Web Scrapping, o [BeautifulSoup](https://pypi.org/project/beautifulsoup4/). É só dar um
 ```shell
 pip install beautifulsoup4
 ```
 no console que é sucesso.
+Também, decorrido de alguns problemas no HTML do website, utilizei o [html5lib](https://pypi.org/project/html5lib/), um parser (analisador de HTML) mais lento porém que lida melhor com erros presentes na formatação do website. Dá um 
+```shell
+pip install html5lib
+```
+que tá show.
 
 ## Exercícios
 
