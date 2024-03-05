@@ -1,13 +1,14 @@
 # Exercitando SQL com um dicionário Inglês
 
 Bem vindo ao meu repositório :)
-Irei exercitar meu SQL aqui com a sugestão de um camarada do Reddit [camarada do Reddit](https://www.reddit.com/r/SQL/comments/g4ct1l/comment/fnx11mc/). Fique a vontade para também treinar comigo.
+Irei exercitar meu SQL aqui com a sugestão de um [camarada do Reddit](https://www.reddit.com/r/SQL/comments/g4ct1l/comment/fnx11mc/). Fique a vontade para também treinar comigo.
 Utilizei o dicionário [OPTED - The Online Plain Text English Dictionary](https://www.mso.anu.edu.au/%7Eralph/OPTED/).
 
 ## Setup
 
 Como IDE utilizei o [Visual Studio Code](https://code.visualstudio.com/), mais prático para tudo. Se você não usa ainda, deveria!
-Usei uma ferramenta massa para Web Scrapping, o [BeautifulSoup](https://pypi.org/project/beautifulsoup4/). É só dar um
+
+Como libs, usei ferramenta massa para Web Scrapping, o [BeautifulSoup](https://pypi.org/project/beautifulsoup4/). É só dar um
 ```shell
 pip install beautifulsoup4
 ```
