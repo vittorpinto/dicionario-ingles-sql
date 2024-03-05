@@ -13,6 +13,7 @@ Como libs, usei ferramenta massa para Web Scrapping, o [BeautifulSoup](https://p
 pip install beautifulsoup4
 ```
 no console que é sucesso.
+
 Também, decorrido de alguns problemas no HTML do website, utilizei o [html5lib](https://pypi.org/project/html5lib/), um parser (analisador de HTML) mais lento porém que lida melhor com erros presentes na formatação do website. Dá um 
 ```shell
 pip install html5lib
